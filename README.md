@@ -1,6 +1,6 @@
 # dyntwist
 
-Discover dynamic DNS domains that resolve to public IPs.
+Discover resolving dynamic DNS domains based on keywords.
 
 #### Usage
 ```python
