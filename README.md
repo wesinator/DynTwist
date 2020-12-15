@@ -7,7 +7,9 @@ Discover resolving dynamic DNS domains based on keywords.
 import dyntwist
 
 result = dyntwist.dyntwist("solarwinds")
-print(result)
+for r in results:
+    if r["dns"]:
+        print(r)
 ```
 
 example result snippet:
