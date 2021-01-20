@@ -4,4 +4,4 @@
 from .dyntwist import dyntwist
 
 __author__ = 'wesinator'
-__version__ = '1.0.0'
+__version__ = '1.0.1'

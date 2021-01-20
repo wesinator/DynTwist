@@ -9,7 +9,7 @@ install_requirements = [
 ]
 
 setup(name='dyntwist',
-      version='1.0.0',
+      version='1.0.1',
       use_scm_version=True,
       setup_requires=['setuptools_scm'],
       description='Discover resolving dynamic DNS domains based on keywords.',
