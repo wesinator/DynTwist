@@ -5,10 +5,8 @@ strangled.net
 ignorelist.com
 uk.to
 crabdance.com
-info.tm
 jumpingcrab.com
 twilightparadox.com
-biz.tm
 ax.lt
 my.to
 ftp.sh
@@ -29,8 +27,6 @@ info.gf
 minecraftnoob.com
 3dxtras.com
 home.kg
-t28.net
-shop.tm
 69.mu
 root.sx
 minecraftr.us

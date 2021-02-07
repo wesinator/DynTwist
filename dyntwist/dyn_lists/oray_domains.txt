@@ -56,7 +56,6 @@ oray.in
 oray.me
 oray.name
 oray.net.cn
-oray.org
 oray.org.cn
 oray.tw
 oray.us
@@ -75,7 +74,6 @@ qicp.net
 sunlogin.cn
 sunlogin.net
 ticp.net
-tudu.cn
 tudu.co
 uicp.cn
 uicp.net
