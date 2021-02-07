@@ -8,8 +8,10 @@ import dyntwist
 
 result = dyntwist.dyntwist("solarwinds")
 for r in results:
-    if r["dns"]:
-        print(r)
+    if r.get("dns"):
+        ip  = r["dns"][0]
+        if ip != "174.128.255.252" and ip != "0.0.0.0":
+            print(r)
 ```
 
 example result snippet:
