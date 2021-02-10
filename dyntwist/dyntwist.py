@@ -12,6 +12,8 @@ domainslist = []
 for file in domains_files:
     domainslist += [domain.strip() for domain in open(file, 'r').readlines()]
 
+dns = nslookup.Nslookup()
+
 
 def dyntwist(keyword):
     """Given keyword, load dynamic domains from corpus to see what dynamic subdomains resolve with that keyword."""
@@ -37,6 +39,5 @@ def dyntwist(keyword):
 
 def process_domain(domain):
     """Given domain, check DNS resolution and return domain object data"""
-    dns = nslookup.Nslookup()
     ips = dns.dns_lookup(domain).answer
     return {"domain": domain, "dns": ips}
