@@ -21,7 +21,6 @@ boldlygoingnowhere.org
 broke-it.net
 buyshouses.net
 cechire.com
-dnsalias.com
 dnsalias.net
 dnsalias.org
 dnsdojo.com
@@ -35,7 +34,6 @@ dontexist.net
 dontexist.org
 doomdns.com
 doomdns.org
-dvrdns.org
 dyn-o-saur.com
 dynalias.com
 dynalias.net
@@ -46,7 +44,6 @@ dyndns-at-work.com
 dyndns-blog.com
 dyndns-free.com
 dyndns-home.com
-dyndns-ip.com
 dyndns-mail.com
 dyndns-office.com
 dyndns-pics.com
@@ -55,10 +52,6 @@ dyndns-server.com
 dyndns-web.com
 dyndns-wiki.com
 dyndns-work.com
-dyndns.biz
-dyndns.info
-dyndns.org
-dyndns.tv
 dyndns.ws
 endofinternet.net
 endofinternet.org
@@ -145,7 +138,6 @@ home.dyndns.org
 homedns.org
 homeftp.net
 homeftp.org
-homeip.net
 homelinux.com
 homelinux.net
 homelinux.org
@@ -246,7 +238,6 @@ likes-pie.com
 likescandy.com
 merseine.com
 merseine.org
-mine.nu
 misconfused.org
 mypets.ws
 myphotos.cc
@@ -261,7 +252,6 @@ saves-the-whales.com
 scrapper-site.net
 scrapping.cc
 selfip.biz
-selfip.com
 selfip.info
 selfip.net
 selfip.org
