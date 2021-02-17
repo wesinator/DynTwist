@@ -17,7 +17,7 @@ dns = nslookup.Nslookup()
 
 def dyntwist(keyword):
     """Given keyword, load dynamic domains from corpus to see what dynamic subdomains resolve with that keyword."""
-    dynamic_domains = ["{}.{}".format(keyword, dyn_domain.strip('.')) for dyn_domain in domainslist]
+    dynamic_domains = set(["{}.{}".format(keyword, dyn_domain.strip('.')) for dyn_domain in domainslist])
 
     futures_list = []
     results = []
