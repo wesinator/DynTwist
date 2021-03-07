@@ -12,7 +12,9 @@ domainslist = []
 for file in domains_files:
     domainslist += [domain.strip() for domain in open(file, 'r').readlines()]
 
-dns = nslookup.Nslookup()
+# use cloudflare DNS servers, avoid local filtering DNS configs
+cloudflare_dns = ["1.1.1.1", "1.0.0.1"]
+dns = nslookup.Nslookup(dns_servers=cloudflare_dns)
 
 
 def dyntwist(keyword):
